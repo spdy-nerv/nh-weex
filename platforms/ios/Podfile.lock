@@ -1,0 +1,44 @@
+PODS:
+  - QBImagePickerController (3.4.0)
+  - RSKImageCropper (2.0.1)
+  - SDWebImage (3.7.5):
+    - SDWebImage/Core (= 3.7.5)
+  - SDWebImage/Core (3.7.5)
+  - SocketRocket (0.4.2)
+  - WeexImageCropPicker (1.0.4):
+    - QBImagePickerController (~> 3.4.0)
+    - RSKImageCropper (~> 2.0.0)
+    - WeexSDK
+  - WeexPluginLoader (0.0.1.9.1):
+    - WeexSDK
+  - WeexSDK (0.18.0)
+
+DEPENDENCIES:
+  - SDWebImage (= 3.7.5)
+  - SocketRocket (= 0.4.2)
+  - WeexImageCropPicker
+  - WeexPluginLoader
+  - WeexSDK
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - QBImagePickerController
+    - RSKImageCropper
+    - SDWebImage
+    - SocketRocket
+    - WeexImageCropPicker
+    - WeexPluginLoader
+    - WeexSDK
+
+SPEC CHECKSUMS:
+  QBImagePickerController: d54cf93db6decf26baf6ed3472f336ef35cae022
+  RSKImageCropper: 50d5a3e4160f0309b14d75b89d5ae2f496d56e0d
+  SDWebImage: 69c6303e3348fba97e03f65d65d4fbc26740f461
+  SocketRocket: ffe08119b00ef982f6c37052a4705a057c8494ad
+  WeexImageCropPicker: 5d5560d2ded53db3108bb13c171767f1269a2ba7
+  WeexPluginLoader: 85c1304f8ba29864e58531614a0acfeceef1b85c
+  WeexSDK: ac56f255ce9a48e93ebc2e003956ab20da33321d
+
+PODFILE CHECKSUM: 60f5b7dfb978c47b7e4c38217bf8233644048076
+
+COCOAPODS: 1.5.0

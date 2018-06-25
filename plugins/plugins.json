@@ -1,0 +1,18 @@
+{
+  "ios": [
+    {
+      "//": "安装类型为pod",
+      "type": "pod",
+      "name": "WeexPicker",
+      "version:": "0.0.1"
+    },
+    {
+      "//": "安装类型为pod",
+      "type": "pod",
+      "name": "WeexImagePicker",
+      "version": "1.0.0"
+    }
+  ],
+  "web": [],
+  "android": []
+}
